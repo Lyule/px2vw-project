@@ -14,6 +14,8 @@ A zero-config bundler for JavaScript applications.
 
 Based on the webpack
 
+## plugins
+
 ### postcss
 
    Major plug-ins
@@ -27,7 +29,7 @@ Based on the webpack
 
 Provide compatible processing for **vw** units
 
-[Viewport Units Buggyfill]('https://github.com/rodneyrehm/viewport-units-buggyfill')
+[Viewport Units Buggyfill](https://github.com/rodneyrehm/viewport-units-buggyfill)
 
 ## Reference
 
