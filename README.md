@@ -6,6 +6,13 @@ Some viewport units  such as vw、vh、vmin、vmax... are browser-compatible.
 
 We can use them to better layout mobile pages or webview pages. 
 
+## Run the project
+
+```cmd
+npm i
+npm run start
+```
+Open [http://localhost:4001](http://localhost:4001) in your browser
 
 ## Build tools
 
