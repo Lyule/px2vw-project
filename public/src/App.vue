@@ -32,6 +32,7 @@ export default {
     // 暂无研究具体原因
     // 暂时使用伪元素 scale 的方案做1px border
     border: 1px solid transparent; 
-    border-image: svg(1pxBorder param(--color #000)) 2 2 stretch;
+    border-width: 0 0 0 1px;
+    border-image: svg(1pxBorder param(--color #000)) 0 2 stretch;
   }
 </style>
